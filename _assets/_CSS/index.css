@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
 body {
     background: #050a19;
     height: 100vh;
@@ -5228,9 +5230,9 @@ body {
 
   form{
     position: relative;
-    padding: 30% 90%;
+    padding: 30% 75%;
     font-size: 17pt;
-
+    font-family: 'Roboto Condensed', sans-serif;
   }
 
   #password,
@@ -5257,3 +5259,5 @@ body {
   #btnSubmit:hover{
    background-color: #fff;
   }
+
+  
